@@ -30,6 +30,10 @@ public class JavacodingApplication {
 	 System.out.println("Reminder"+(number1%number2));
 	 System.out.println("Code form the sudheer");
 	 //MASTER BRANCH
+<<<<<<< HEAD
+=======
+	 //test the text in sudheer branch
+>>>>>>> sudheer
 	}
 
 }
