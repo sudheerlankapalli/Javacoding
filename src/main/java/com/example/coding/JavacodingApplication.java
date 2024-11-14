@@ -28,12 +28,8 @@ public class JavacodingApplication {
 	 System.out.println("Multiplication"+(number1*number2));
 	 System.out.println("Division"+(number1/number2));
 	 System.out.println("Reminder"+(number1%number2));
-	 System.out.println("Code form the sudheer");
+	 System.out.println("Code form the master");
 	 //MASTER BRANCH
-<<<<<<< HEAD
-=======
-	 //test the text in sudheer branch
->>>>>>> sudheer
 	}
 
 }
