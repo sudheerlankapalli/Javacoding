@@ -28,6 +28,14 @@ public class JavacodingApplication {
 	 System.out.println("Multiplication"+(number1*number2));
 	 System.out.println("Division"+(number1/number2));
 	 System.out.println("Reminder"+(number1%number2));
+	 System.out.print("Simple text to check the git ");
+
+	 System.out.print("Enter the name to print");
+	 Scanner txt=new Scanner(System.in);
+	 String str=txt.nextLine();
+	 for (int i=0;i<=5;i++){
+		 System.out.println(str);
+	 }
     System.out.print("Simple text to check the git ");
 	 System.out.println("Code form the master");
 	}
