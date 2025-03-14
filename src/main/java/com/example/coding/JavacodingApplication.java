@@ -36,6 +36,8 @@ public class JavacodingApplication {
 	 for (int i=0;i<=5;i++){
 		 System.out.println(str);
 	 }
+    System.out.print("Simple text to check the git ");
+	 System.out.println("Code form the master");
 	}
 
 }
